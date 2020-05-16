@@ -117,13 +117,13 @@
    
    .keys span.eval:hover {
     background: brown;
-    box-shadow: 0px 4px #7a3362;
+    box-shadow: 0px 4px #f0ec11;
     color: #ffffff;
    }
    
    .top span.clear:hover {
     background: rgb(143, 204, 0);
-    box-shadow: 0px 4px #0d0053;
+    box-shadow: 0px 4px pink;
     color: pink;
    }
    
